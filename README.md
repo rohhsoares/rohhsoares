@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Roberta Soares 👋
 
-<!--
-**rohhsoares/rohhsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedora Full Stack em formação
+📱 Desenvolvimento Android com Java
+☕ Back-end com Java e Spring Boot
+🔥 Firebase e Banco de Dados, MongoDB
+🌱 Atualmente aprendendo Android, Spring Boot e Cloud Computing
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Android Studio
+- Firebase
+- MySQL
+- Nosql
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## Contato
+
+🔗 LinkedIn:https://www.linkedin.com/in/roberta-soares-82a324371/
