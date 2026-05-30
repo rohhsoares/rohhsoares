@@ -1,4 +1,4 @@
-# Olá, eu sou a Roberta Soares 👋
+# Olá, eu sou a Roberta Soares 💻
 
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Desenvolvedora Full Stack em formação
